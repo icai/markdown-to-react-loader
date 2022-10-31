@@ -381,7 +381,7 @@ const Markdown = () => (
     <pre className="">
       <code className="">
         &lt;div className="footer">
-        <br /> &amp;copy; 2004 Foo Corporation
+        <br /> &copy; 2004 Foo Corporation
         <br />
         &lt;/div>
       </code>
