@@ -1,7 +1,7 @@
 # markdown-to-react-loader
 
 
-### [![NpmVersion](https://img.shields.io/npm/v/markdown-to-react-loader.svg)](https://www.npmjs.com/package/markdown-to-react-loader) [![NpmDownloads](https://img.shields.io/npm/dt/markdown-to-react-loader.svg)](https://www.npmjs.com/package/markdown-to-react-loader) [![Build Status](https://travis-ci.org/jsakas/markdown-to-react-loader.svg?branch=master)](https://travis-ci.org/jsakas/markdown-to-react-loader)
+### [![NpmVersion](https://img.shields.io/npm/v/@w3cub/markdown-to-react-loader.svg)](https://www.npmjs.com/package/@w3cub/markdown-to-react-loader) [![NpmDownloads](https://img.shields.io/npm/dt/@w3cub/markdown-to-react-loader.svg)](https://www.npmjs.com/package/@w3cub/markdown-to-react-loader) [![Build Status](https://travis-ci.org/jsakas/markdown-to-react-loader.svg?branch=master)](https://travis-ci.org/jsakas/markdown-to-react-loader)
 
 
 A Webpack loader for converting Markdown files to React components (JSX).
@@ -31,15 +31,15 @@ const Markdown = () => (
 export default Markdown;
 ```
 
-Note: Requires React 16.2+
+Note: Requires React 16.2+ || 17.x || 18.x
 
 # Installation
 
 ```
-yarn add --dev markdown-to-react-loader
+yarn add --dev @w3cub/markdown-to-react-loader
 ```
 ```
-npm install --save-dev markdown-to-react-loader
+npm install --save-dev @w3cub/markdown-to-react-loader
 ```
 
 # Usage
